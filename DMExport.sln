@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMExport", "DMExport\DMExport.csproj", "{603C8FB8-475B-4E0E-9C1C-244B1157B05D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMExport.Library", "DMExport.Library\DMExport.Library.csproj", "{36A16BA2-664C-440C-AB64-134DE3091397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMExport.Tests", "DMExport.Tests\DMExport.Tests.csproj", "{A33BF2ED-5523-490D-A1D7-057BFC36661F}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DMExport.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603C8FB8-475B-4E0E-9C1C-244B1157B05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603C8FB8-475B-4E0E-9C1C-244B1157B05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603C8FB8-475B-4E0E-9C1C-244B1157B05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603C8FB8-475B-4E0E-9C1C-244B1157B05D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A16BA2-664C-440C-AB64-134DE3091397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A16BA2-664C-440C-AB64-134DE3091397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A16BA2-664C-440C-AB64-134DE3091397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A16BA2-664C-440C-AB64-134DE3091397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33BF2ED-5523-490D-A1D7-057BFC36661F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33BF2ED-5523-490D-A1D7-057BFC36661F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33BF2ED-5523-490D-A1D7-057BFC36661F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33BF2ED-5523-490D-A1D7-057BFC36661F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

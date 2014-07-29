@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DMExport.Library.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DMExport_Library_WorkflowService_Workflow" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://miheich/pwa/_vti_bin/psi/workflow.asmx</Value>
+    </Setting>
+    <Setting Name="DMExport_Library_LookupTableService_LookupTable" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://miheich/pwa/_vti_bin/psi/lookuptable.asmx</Value>
+    </Setting>
+    <Setting Name="DMExport_Library_CustomFieldsService_CustomFields" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://miheich/pwa/_vti_bin/psi/customfields.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
